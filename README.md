@@ -1,9 +1,14 @@
 <div align="center">
 
-  # Deploy to Virtual Machine
+# Deploy to Virtual Machine
 
-  <p>Perintah-perintah terminal step by step untuk melakukan deploy <b>miku-voice.zip</b> dari komputer lokal ke Azure VM via SCP (Secure Copy Protocol)</p>
-  
+<p>Perintah-perintah terminal step by step untuk melakukan deploy <a href="https://huggingface.co/virtual-miku/miku-voice/tree/main"><b>miku-voice.zip</b></a> dari komputer lokal ke Azure VM via SCP (Secure Copy Protocol)</p>
+
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
+[![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)](https://pm2.io)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com)
+
 </div>
 
 ### Memulai
